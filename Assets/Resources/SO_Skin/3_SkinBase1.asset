@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0a1e714ecdf85ff4f8e06c4b9d5f7545, type: 3}
+  m_Name: 3_SkinBase1
+  m_EditorClassIdentifier: 
+  skinName: SkinBase1
+  price: 1433
+  color: {r: 0.9882353, g: 0.7294118, b: 0.015686275, a: 1}
+  material: {fileID: 2100000, guid: 17400876c0a9efe49b7fd4d0250134ff, type: 2}
